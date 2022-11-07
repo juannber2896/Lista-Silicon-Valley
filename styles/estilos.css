@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /*El padding es el espacio entre el contenido de un elemento y el borde.
+    por otra parte, el margin constituye el espacio más externo del elemnto */
+}
+body{
+    background-size: cover;
+}
